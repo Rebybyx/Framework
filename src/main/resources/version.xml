@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+	<version>1.0.0</version>
+	<name>devicerelease.apk</name>
+	<date>2017-04-13 12:00</date>
+	<url>/device-release.apk</url>
+	<msg>#1......#2......#3......#4.....</msg>
+	<imageVersion>5</imageVersion>
+	<imageUrl>/uploadFile/images/20170407/1318453310.jpg</imageUrl><!--http://192.168.168.138:8100-->
+</update>
+<!--  
+<update>
+	<version>1.0</version>
+	<name>meeting.apk</name>
+	<date>2014-03-26 15:30</date>
+	<url>http://118.186.195.38:8080/MeetingManage/meeting.apk</url>
+</update>
+-->

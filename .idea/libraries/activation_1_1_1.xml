@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-bpmn-converter-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-bpmn-layout-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-bpmn-model-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-common-rest-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-crystalball-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-diagram-rest-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-engine-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-explorer-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-image-generator-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-json-converter-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-modeler-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-process-validation-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-simple-workflow-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/activiti-spring-5.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/avalon-framework-api-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/avalon-framework-impl-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-anim-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-awt-util-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-bridge-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-css-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-dom-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-ext-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-gvt-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-js-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-parser-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-script-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-svg-dom-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-svggen-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-transcoder-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-util-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/batik-xml-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-email-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-pool-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/dcharts-widget-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fop-0.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gwt-servlet-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javaGeom-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/joda-time-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/dcharts-widget-0.10.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>

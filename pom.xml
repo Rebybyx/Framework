@@ -16,7 +16,7 @@
     </properties>
 
     <build>
-        <finalName>Framework</finalName>
+        <finalName>ActivitiExplorerDemo</finalName>
         <plugins>
             <plugin>
                 <!-- https://mvnrepository.com/artifact/org.mybatis.generator/mybatis-generator-maven-plugin -->
@@ -88,8 +88,8 @@
         </plugins>
     </build>
 
-    <groupId>Framework</groupId>
-    <artifactId>Framework</artifactId>
+    <groupId>ActivitiExplorerDemo</groupId>
+    <artifactId>ActivitiExplorerDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- 打包方法 -->

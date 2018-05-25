@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ActivitiExplorerDemo" />
         <module name="Framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ActivitiExplorerDemo" target="1.8" />
       <module name="ActivitiExplorerZH" target="1.8" />
       <module name="Framework" target="1.8" />
     </bytecodeTargetLevel>
